@@ -1,0 +1,27 @@
+{
+  "name": "NextJS",
+  "version": "1.0.0",
+  "description": "Testing NextJS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterwra/NextJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peterwra/NextJS/issues"
+  },
+  "homepage": "https://github.com/peterwra/NextJS#readme",
+  "dependencies": {
+    "next": "^9.3.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
