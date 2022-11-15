@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/peterwra/NextJS#readme",
   "dependencies": {
-    "next": "^9.3.2",
+    "next": "^13.0.3",
     "react": "^16.13.1",
     "react-dom": "^16.13.1"
   }
